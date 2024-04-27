@@ -39,10 +39,6 @@ Please don't mind the mess, this is still work in progress...
 
 ### Malware Analysis
 <div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FakeNet-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OPNsense-1AB394?style=for-the-badge&logo=OPNsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logoColor=white" />
   
 </div>
 

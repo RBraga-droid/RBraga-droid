@@ -19,5 +19,30 @@ Please don't mind the mess, this is still work in progress...
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />  
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
-
 </div>
+
+### OS
+<div>
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  
+</div>
+
+### Network
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FakeNet-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OPNsense-1AB394?style=for-the-badge&logo=OPNsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logoColor=white" />
+  
+</div>
+
+### Malware Analysis
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FakeNet-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OPNsense-1AB394?style=for-the-badge&logo=OPNsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logoColor=white" />
+  
+</div>
+

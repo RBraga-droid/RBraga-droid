@@ -8,3 +8,16 @@ I am a recent graduate with a profound interest in technology and a dedication t
 After 6 years of univeristy and passionate learning in every IT field, I'm now committed to start my career in cybersecurity, always ready to learn and to share my experiences. I'm specifically aiming to join a Security Operations Center (SOC) or a somewhat similar position where I could put my skills and interests in play.
 
 Please don't mind the mess, this is still work in progress...
+
+## Tools
+
+### Languages
+<div>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
+
+</div>

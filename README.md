@@ -37,8 +37,17 @@ Please don't mind the mess, this is still work in progress...
   
 </div>
 
+### Sandboxing
+<div>
+  <img src="https://img.shields.io/badge/-Oracle%20VM%20VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
+
 ### Malware Analysis
 <div>
-  
+  <img src="https://img.shields.io/badge/-PEstudio-6B4EA0?style=for-the-badge&logo=PEstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IDA-1F415D?style=for-the-badge&logo=IDA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Detect%20It%20Easy-2B5080?style=for-the-badge&logo=DetectItEasy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scylla-3A637C?style=for-the-badge&logo=Scylla&logoColor=white" />
+
 </div>
 

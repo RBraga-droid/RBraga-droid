@@ -9,6 +9,14 @@ After 6 years of univeristy and passionate learning in every IT field, I'm now c
 
 Please don't mind the mess, this is still work in progress...
 
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Snadboxing Kali and Windows         | <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a>|
+| Basic ethical hacking toolbox in Kali | <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a>|
+| Basic event monitoring on Windows10 using Splunk         | <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a>|
+
 ## Tools
 
 ### Languages
@@ -50,4 +58,7 @@ Please don't mind the mess, this is still work in progress...
   <img src="https://img.shields.io/badge/-Scylla-3A637C?style=for-the-badge&logo=Scylla&logoColor=white" />
 
 </div>
+
+## Projects
+- <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a>
 

@@ -13,9 +13,10 @@ Please don't mind the mess, this is still work in progress...
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Snadboxing Kali and Windows         | <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a>|
+| Snadboxing Kali and Windows         | <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a><a href="https://github.com/RBraga-droid/MasterThesys.git">Master's Thesis</a>|
 | Basic ethical hacking toolbox in Kali | <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a>|
 | Basic event monitoring on Windows10 using Splunk         | <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a>|
+| Deep learning for image and graph classification basics| <a href="https://github.com/RBraga-droid/MasterThesys.git">Master's Thesis</a> |
 
 ## Tools
 

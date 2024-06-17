@@ -5,7 +5,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-After 6 years of univeristy and passionate learning in every IT field, I'm now committed to start my career in cybersecurity, always ready to learn and to share my experiences. I'm specifically aiming to join a Security Operations Center (SOC) or a somewhat similar position where I could put my skills and interests in play.
+After 6 years of univeristy and passionate learning in every IT field, I'm now committed to start my career in cybersecurity, always ready to learn and to share my experiences. I'm specifically aiming to join positions where I could put my practical skills and interests in play.
 
 Please don't mind the mess, this is still work in progress...
 
@@ -17,6 +17,7 @@ Please don't mind the mess, this is still work in progress...
 | Basic ethical hacking toolbox in Kali | <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a>|
 | Basic event monitoring on Windows10 using Splunk         | <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a>|
 | Deep learning for image and graph classification basics| <a href="https://github.com/RBraga-droid/MasterThesys.git">Master's Thesis</a> |
+| Burp-suite and bug hunting tools| <a href="https://github.com/RBraga-droid/hacker101-CTFs.git">Hacker101-CTFs</a> |
 
 ## Tools
 
@@ -51,6 +52,12 @@ Please don't mind the mess, this is still work in progress...
   <img src="https://img.shields.io/badge/-Oracle%20VM%20VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 </div>
 
+### Bug-hunting
+<div>
+  <img src="https://img.shields.io/badge/-Burp%20Suite-183A61?style=for-the-badge&logo=BurpSuite&logoColor=white" />
+
+</div>
+
 ### Malware Analysis
 <div>
   <img src="https://img.shields.io/badge/-PEstudio-6B4EA0?style=for-the-badge&logo=PEstudio&logoColor=white" />
@@ -62,4 +69,6 @@ Please don't mind the mess, this is still work in progress...
 
 ## Projects
 - <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a>
+- <a href="https://github.com/RBraga-droid/MasterThesys.git">Master's Thesis</a>
+- <a href="https://github.com/RBraga-droid/hacker101-CTFs.git">Hacker101-CTFs</a>
 

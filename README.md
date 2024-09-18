@@ -5,7 +5,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-After 6 years of univeristy and passionate learning in every IT field, I'm now committed to start my career in cybersecurity, always ready to learn and to share my experiences. I'm specifically aiming to join positions where I could put my practical skills and interests in play.
+After 6 years of univeristy and passionate learning in every IT field, I'm now working for BIP and I'm always ready to learn and to share my experiences.
 
 Please don't mind the mess, this is still work in progress...
 

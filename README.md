@@ -1,11 +1,11 @@
 # Hello, I'm Riccardo
 <a href="http://www.linkedin.com/in/riccardo-bragaglia-96700a218"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. I'm currently working for Business Integration Programs as Cybersecurity consultant. 
+I am senior Cybersecurity Consultant for BIP with expertise in Security ASsessment, Penetration Testing and Risk Analysis in operational Technology, Aerospace and IT infrastructures. 
 
 ## Objective
 
-After 6 years of univeristy and passionate learning in every IT field, I'm now working for BIP and I'm always ready to learn and to share my experiences.
+I'm passionate learning in every IT field, I'm now working for BIP and I'm always ready to learn and to share my experiences.
 
 Please don't mind the mess, this is still work in progress...
 

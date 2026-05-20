@@ -1,74 +1,103 @@
-# Hello, I'm Riccardo
-<a href="http://www.linkedin.com/in/riccardo-bragaglia-96700a218"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div align="center">
 
-I am senior Cybersecurity Consultant for BIP with expertise in Security ASsessment, Penetration Testing and Risk Analysis in operational Technology, Aerospace and IT infrastructures. 
+# Riccardo Bragaglia
+### Cybersecurity Consultant · Penetration Tester · Security Researcher
 
-## Objective
-
-I'm passionate learning in every IT field, I'm now working for BIP and I'm always ready to learn and to share my experiences.
-
-Please don't mind the mess, this is still work in progress...
-
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Snadboxing Kali and Windows         | <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a>, <a href="https://github.com/RBraga-droid/MasterThesys.git">Master's Thesis</a>|
-| Basic ethical hacking toolbox in Kali | <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a>|
-| Basic event monitoring on Windows10 using Splunk         | <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a>|
-| Deep learning for image and graph classification basics| <a href="https://github.com/RBraga-droid/MasterThesys.git">Master's Thesis</a> |
-| Burp-suite and bug hunting tools| <a href="https://github.com/RBraga-droid/hacker101-CTFs.git">Hacker101-CTFs</a> |
-
-## Tools
-
-### Languages
-<div>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
-</div>
-
-### OS
-<div>
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  
-</div>
-
-### Network
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FakeNet-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OPNsense-1AB394?style=for-the-badge&logo=OPNsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logoColor=white" />
-  
-</div>
-
-### Sandboxing
-<div>
-  <img src="https://img.shields.io/badge/-Oracle%20VM%20VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
-</div>
-
-### Bug-hunting
-<div>
-  <img src="https://img.shields.io/badge/-Burp%20Suite-183A61?style=for-the-badge&logo=BurpSuite&logoColor=white" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-bragaglia-96700a218/)
+[![Profile Views](https://komarev.com/ghpvc/?username=RBraga-droid&style=for-the-badge&color=0A66C2)](https://github.com/RBraga-droid)
 
 </div>
 
-### Malware Analysis
-<div>
-  <img src="https://img.shields.io/badge/-PEstudio-6B4EA0?style=for-the-badge&logo=PEstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/-IDA-1F415D?style=for-the-badge&logo=IDA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Detect%20It%20Easy-2B5080?style=for-the-badge&logo=DetectItEasy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scylla-3A637C?style=for-the-badge&logo=Scylla&logoColor=white" />
+---
 
-</div>
+## About
+
+Cybersecurity Consultant at **BIP – Business Integration Partners**, specializing in security assessments across **Operational Technology (OT)**, **aerospace systems**, and **large-scale IT infrastructures**.
+
+My work spans the full security engagement lifecycle: from target enumeration and infrastructure mapping to vulnerability analysis, active penetration testing, and the production of structured reports aligned with international frameworks (NIST, ISO).
+
+I hold a **Master's degree in Cybersecurity** from Sapienza Università di Roma and a **Bachelor's in IT Engineering** from Roma Tre.
+
+---
+
+## Core Competencies
+
+| Domain | Skills & Tools |
+|---|---|
+| **Penetration Testing** | Burp Suite · Kali Linux · Manual Inspection · Custom Payload Crafting |
+| **Network Security** | Wireshark · Nmap · FakeNet · OpenSense · Protocol Enumeration |
+| **Malware Analysis** | IDA Pro · PEstudio · DetectItEasy · Scylla · Static & Dynamic Analysis |
+| **OT / ICS Security** | Network Device Auditing · Domain Controller Analysis · Server Hardening |
+| **Security Governance** | NIST Framework · ISO Standards · Vulnerability Enumeration · Risk Reporting |
+| **Sandboxing** | VirtualBox · Kali VM · Windows Isolated Environments |
+| **Programming** | Python · C · C++ · Java · Bash · PHP · HTML |
+
+---
 
 ## Projects
-- <a href="https://github.com/RBraga-droid/project_home_lab.git">Home Lab</a>
-- <a href="https://github.com/RBraga-droid/MasterThesys.git">Master's Thesis</a>
-- <a href="https://github.com/RBraga-droid/hacker101-CTFs.git">Hacker101-CTFs</a>
 
+### 🔬 [Home Lab](https://github.com/RBraga-droid/project_home_lab)
+> Personal cybersecurity lab built on VirtualBox for hands-on penetration testing, network monitoring, and malware analysis.
+
+Covers the full setup pipeline: VM configuration, network isolation, Splunk integration for event monitoring, and an ethical hacking toolbox on Kali Linux. Designed as a reproducible, self-contained research environment.
+
+**Topics:** `virtualbox` `kali-linux` `splunk` `network-monitoring` `malware-analysis` `home-lab`
+
+---
+
+### 🧠 [Master's Thesis](https://github.com/RBraga-droid/MasterThesys)
+> Research project developed during the MSc in Cybersecurity at Sapienza Università di Roma.
+
+Explores deep learning techniques applied to image and graph classification in a security context. Includes experimentation with neural network architectures and evaluation pipelines.
+
+**Topics:** `deep-learning` `graph-classification` `cybersecurity` `machine-learning` `python`
+
+---
+
+### 🚩 [Hacker101 CTFs](https://github.com/RBraga-droid/hacker101-CTFs)
+> Structured write-ups and solutions from CTF (Capture the Flag) challenges on the Hacker101 platform.
+
+Documents bug-hunting methodology, web application vulnerabilities, and custom exploitation approaches using Burp Suite and manual techniques.
+
+**Topics:** `ctf` `web-security` `bug-bounty` `burp-suite` `hacker101` `writeup`
+
+---
+
+## Technical Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-1F415D?style=flat-square&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![RBraga-droid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RBraga-droid&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RBraga-droid&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to collaboration on security research, CTF challenges, and tool development.*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-bragaglia-96700a218/)
+
+</div>
